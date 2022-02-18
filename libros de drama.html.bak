@@ -1,0 +1,36 @@
+<meta charset="UTF-8">
+  	<title>	
+		LIBROS
+	</title>
+	
+      <link rel="stylesheet" href="css/estilo1.css">
+	<body background-image.url >
+	</head>
+  <div class="wrapper">
+  <header>
+    <div class="header-controls">
+      <h1>FREE BOOKS</h1>
+	  <center> <a href="index.html"><button class="button">LIBRERIA</a></button>
+	<CENTER><P><b><H3>LIBROS DE DRAMA</P></b></H3></CENTER>
+	<section>
+  
+    <CENTER>
+<br><br><br>
+	
+				<tr>
+					<td><img src="imagenes/trecerazones.jpg" width="300px" height="360px" id="imagen1"></A></td>
+					<p>La trama gira en torno a una estudiante de preparatoria que se suicida después de una serie de fracasos culminantes, provocados por individuos selectos dentro de su escuela. Una caja de cintas de casete, grabadas por
+					Hannah antes de su suicidio, detalla las trece razones por las que decidió acabar con su vida.</p> 
+					 <center><a href="download/trecerazones.PDF"><button class="button">descargar libro PDF</button></a></center<<center> <a href="download/trecerazones.docx"><button class="button">descargar libro DOCX</button></a></center>
+					
+	                  <td><img src="imagenes/ladronadelibros.jpg" width="300px" height="360px" id="imagen2"></a></td>
+					  <p>Los Ángeles, década de 1970. Un legendario fantasma que se oculta en la oscuridad de la noche aterra a los niños. Se trata de la Llorona, un ente atrapado entre el Cielo y el Infierno que en vida ahogó a sus hijos. Tras ignorar espeluzantes advertencias, una trabajadora social y sus hijos se adentran en un mundo sobrenatural repleto de misterio. Su única esperanza para
+					  sobrevivir a la Llorona radica en un sacerdote.</p>
+                      <center> <a href="download/ladronadelibros.PDF"><button class="button">descargar libro PDF</button></a></center><center> <a href="download/ladronadelibros.DOCX"><button class="button">descargar libro docx</button></a></center>
+					  </tr>
+	  <td><img src="imagenes/lacabaña.jpg" width="300px" height="360px" id="imagen2"></a></td>
+					  <p>Después de sufrir una tragedia familiar, Mack Phillips cae en una profunda
+					  depresión que le lleva a cuestionar todas sus creencias. Sumido en una crisis de fe, recibe una enigmática carta donde un misterioso personaje le cita en una cabaña abandonada en lo más profundo de los bosques de Oregón. A pesar de sus dudas, Mack viaja a la cabaña, donde se encontrará con alguien inesperado.
+</p>
+                      <center> <a href="download/lacabaña.PDF"><button class="button">descargar libro PDF</button></a></center><center> <a href="download/lacabaña.DOCX"><button class="button">descargar libro docx</button></a></center>
+					  </tr>

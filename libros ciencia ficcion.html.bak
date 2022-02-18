@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es" >
+<html>
+	<head>
+  	<meta charset="UTF-8">
+  	<title>	
+		LIBROS
+	</title>
+	
+      <link rel="stylesheet" href="css/estilo1.css">
+	<body background-image.url >
+	</head>
+  <div class="wrapper">
+  <header>
+    <div class="header-controls">
+      <h1>FREE BOOKS</h1>
+	  <center> <a href="index.html"><button class="button">LIBRERIA</a></button>
+	<CENTER><P><b><H3>LIBROS CIENCIA FICCION</P></b></H3></CENTER>
+	<section>
+  
+    <CENTER>
+<br><br><br>
+	
+				<tr>
+					<td><img src="imagenes/HP.gif" width="300px" height="360px" id="imagen1"></A></td>
+					<p>El día de su cumpleaños, Harry Potter descubre que es hijo de dos conocidos hechiceros, de los que ha heredado poderes mágicos.
+					Debe asistir a una famosa escuela de magia y hechicería, donde entabla una amistad con dos jóvenes que se convertirán en sus compañeros de aventura. Durante su primer año en Hogwarts, 
+					descubre que un malévolo y poderoso mago llamado Voldemort está en busca de una piedra filosofal que alarga la vida de quien la posee.</p> 
+					 <center><a href="download/HARRY POTTER.PDF"><button class="button">descargar libro PDF</button></a></center<<center> <a href="download/HARRY POTTER.docx"><button class="button">descargar libro DOCX</button></a></center>
+					
+	                  <td><img src="imagenes/DUNE.jpg" width="300px" height="360px" id="imagen2"></a></td>
+					  <p>"Dune", el periplo de un héroe mítico y con una enorme carga emocional, cuenta la historia de Paul Atreides. Se trata de un joven brillante y de gran talento con un destino grandioso que no comprende todavía
+					  y que deberá viajar al planeta más peligroso del universo para asegurar el futuro de su familia y de su pueblo</p>
+                      <center> <a href="download/Dune - Frank Herbert.PDF"><button class="button">descargar libro PDF</button></a></center><center> <a href="download/Dune - Frank Herbert.DOCX"><button class="button">descargar libro docx</button></a></center>
+					  </tr>
+	  
